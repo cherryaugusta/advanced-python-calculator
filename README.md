@@ -70,4 +70,4 @@ This project is created strictly for educational purposes and portfolio demonstr
 
 ## License
 
-This project is licensed under the MIT License. See the LICENSE file for details.
+This project is licensed under the MIT License. See the [LICENSE](https://github.com/cherryaugusta/advanced-python-calculator/blob/main/LICENSE) file for details.
