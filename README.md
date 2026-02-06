@@ -25,7 +25,7 @@ advanced-python-calculator/
 ## Installation
 
 ```bash
-git clone https://github.com/your-username/advanced-python-calculator.git
+git clone https://github.com/cherryaugusta/advanced-python-calculator.git
 cd advanced-python-calculator
 python -m venv .venv
 source .venv/bin/activate
