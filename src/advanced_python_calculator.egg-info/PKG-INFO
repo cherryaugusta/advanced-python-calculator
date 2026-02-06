@@ -1,0 +1,8 @@
+Metadata-Version: 2.4
+Name: advanced-python-calculator
+Version: 1.0.0
+Requires-Python: >=3.10
+License-File: LICENSE
+Provides-Extra: dev
+Requires-Dist: pytest>=7.0; extra == "dev"
+Dynamic: license-file
